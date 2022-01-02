@@ -24,8 +24,8 @@
   	<div align="justify" style="display: inline_block"></div>
 		<div align="center">
 			<a href="https://github.com/MER4K">
-				<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MER4K&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-				<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MER4K&layout=compact&langs_count=10&theme=dark&count_private=true" />
+				<img height="179em" src="https://github-readme-stats.vercel.app/api?username=MER4K&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+				<img height="179em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MER4K&layout=compact&langs_count=10&theme=dark&count_private=true" />
 			</a>
 		</div>
 		<div align="left" display= "inline_block">
