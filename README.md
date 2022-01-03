@@ -1,4 +1,4 @@
-<img src="https://badges.pufler.dev/visits/alexandresanlim/alexandresanlim?style=for-the-badge&logo=GitHub&logoColor=white">
+<img src="https://badges.pufler.dev/visits/MER4K/MER4K?style=for-the-badge&logo=GitHub&logoColor=white">
 <p align="center">
 	<strong><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi Ladys and Gentlemen, my name is Ricardo, but you can call me MERAK or Asmita; whatever!</strong>
 	<img width="100%" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
