@@ -1,3 +1,4 @@
+<img src="https://badges.pufler.dev/visits/alexandresanlim/alexandresanlim?style=for-the-badge&logo=GitHub&logoColor=white">
 <p align="center">
 	<strong><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi Ladys and Gentlemen, my name is Ricardo, but you can call me MERAK or Asmita; whatever!</strong>
 	<img width="100%" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
@@ -8,6 +9,15 @@
 		<img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://scontent-gig2-1.cdninstagram.com/v/t51.2885-19/s150x150/210882471_5709633662444127_4560359312715020661_n.jpg?_nc_ht=scontent-gig2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=mVPUJ1n3jCkAX_iLvte&edm=ALbqBD0BAAAA&ccb=7-4&oh=00_AT8iV_A2ft3XHyv0F_pQG65Ec3DUFYAr2br_p_vuupBqEg&oe=61D92670&_nc_sid=9a90d6?width=676&height=676">
 		<h4>⚡ About me</h4>
 		Student of Business Administration at Faculdade Estácio de Sá in Rio de Janeiro 🏫, responsible for the online store for personalized products <a href="https://www.instagram.com/nossasestrelas.br/">Nossas Estrelas</a> and passionate about technology, and an aspiring software developer 💻.
+		<br>
+		<h4>💻 My Workspace</h4>
+		<img src="https://img.shields.io/badge/Linux-20.04%20LTS-dd4814?style=for-the-badge&logo=linux&logoColor=white" />
+		<img src="https://img.shields.io/badge/Windows-Insider%20Preview-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+		<br>
+  		<img src="https://img.shields.io/badge/Intel-Core_i5_9400F-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+  		<img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+		<br>
+  		<img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 		<br>
 		<h4>💬 Talking about Personal Stuffs:</h4>
 		<p>
@@ -21,6 +31,7 @@
 			</ul>
 		</p>
 	</div>
+	<hr/>
   	<div align="justify" style="display: inline_block"></div>
 		<div align="center">
 			<a href="https://github.com/MER4K">
@@ -28,6 +39,7 @@
 				<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MER4K&layout=compact&langs_count=10&theme=dark&count_private=true" />
 			</a>
 		</div>
+		<hr/>
 		<div align="left" display= "inline_block">
 			<h4>⚙️ Back-end</h4>
 			<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -48,7 +60,7 @@
 		</div>
 		<div>
 			<h4>💾 Lasts Projects</h4>
-			<a href="https://github.com/MER4K"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MER4K&repo=github-readme-stats"></a>
+			<a href="https://github.com/MER4K"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MER4K&repo=MER4K"></a>
 		</div>
 	</div>
 
