@@ -1,92 +1,65 @@
 [
-    {
-        "_id": 1,
-        "name": "Leila Tran2",
-        "image": "/assets/images/clients/profile-2.png",
-        "company": "RONBERT",
-        "responsabilidade": "banana",
-        "message": "ea labore ad enim consectetur qui commodo exercitation reprehenderit ipsum",
-        "registered": "2018-07-10T12:48:38 +03:00"
-    },
-    {
-        "_id": 11,
-        "name": "Winifred Higgins",
-        "image": "/assets/images/clients/profile-2.png",
-        "company": "JIMBIES",
-        "responsabilidade": "strawberry",
-        "message": "tempor sunt cillum pariatur in ut consequat elit qui eiusmod",
-        "registered": "2015-07-29T05:27:35 +03:00"
-    },
-    {
-        "_id": 21,
-        "name": "Janet Hale",
-        "image": "/assets/images/clients/profile-2.png",
-        "company": "SCENTRIC",
-        "responsabilidade": "banana",
-        "message": "dolore et dolore proident magna tempor consequat reprehenderit pariatur nulla",
-        "registered": "2017-05-17T04:22:27 +03:00"
-    },
-    {
-        "_id": 31,
-        "name": "Meagan Ballard",
-        "image": "/assets/images/clients/profile-2.png",
-        "company": "VERTIDE",
-        "responsabilidade": "strawberry",
-        "message": "qui reprehenderit aliquip consectetur culpa ex in cillum tempor veniam",
-        "registered": "2021-11-02T07:56:34 +03:00"
-    },
-    {
-        "_id": 41,
-        "name": "Francis Austin",
-        "image": "/assets/images/clients/profile-2.png",
-        "company": "ZILLACOM",
-        "responsabilidade": "apple",
-        "message": "duis est sit irure nisi aute deserunt qui deserunt velit",
-        "registered": "2018-07-30T11:41:52 +03:00"
-    },
-    {
-        "_id": 51,
-        "name": "Mathews Odonnell",
-        "image": "/assets/images/clients/profile-2.png",
-        "company": "SECURIA",
-        "responsabilidade": "banana",
-        "message": "exercitation reprehenderit officia ipsum aute deserunt aliqua reprehenderit eiusmod cillum",
-        "registered": "2016-10-09T09:50:43 +03:00"
-    },
-    {
-        "_id": 61,
-        "name": "Katherine Garrison",
-        "image": "/assets/images/clients/profile-2.png",
-        "company": "NSPIRE",
-        "responsabilidade": "strawberry",
-        "message": "id ad excepteur sint anim nostrud nulla enim elit in",
-        "registered": "2014-11-15T09:26:20 +02:00"
-    },
-    {
-        "_id": 71,
-        "name": "Vicki Vargas",
-        "image": "/assets/images/clients/profile-2.png",
-        "company": "ELEMANTRA",
-        "responsabilidade": "banana",
-        "message": "sit exercitation aliqua voluptate dolor est in aliqua elit ipsum",
-        "registered": "2018-01-18T11:16:53 +02:00"
-    },
-    {
-        "_id": 81,
-        "name": "Whitaker Luna",
-        "image": "/assets/images/clients/profile-2.png",
-        "company": "SEQUITUR",
-        "responsabilidade": "apple",
-        "message": "nulla ullamco esse aliquip duis cupidatat duis adipisicing voluptate velit",
-        "registered": "2016-04-20T07:17:08 +03:00"
-    },
-    {
-        "_id": 91,
-        "name": "Mayo Rivas",
-        "image": "/assets/images/clients/profile-2.png",
-        "company": "VIXO",
-        "responsabilidade": "strawberry",
-        "message": "ut culpa sit cupidatat qui laborum et eiusmod exercitation voluptate",
-        "registered": "2015-06-04T10:20:50 +03:00"
-    }
+  {
+    "_id": 1,
+    "name": "Hunter Walter",
+    "image": "assets/user.svg",
+    "company": "ZIDANT",
+    "responsabilidade": "strawberry",
+    "message": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolorem que laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis.",
+    "registered": "2018-10-04T09:27:36 +03:00"
+  },
+  {
+    "_id": 11,
+    "name": "Chase West",
+    "image": "assets/user.svg",
+    "company": "LIMAGE",
+    "responsabilidade": "apple",
+    "message": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolorem que laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis.",
+    "registered": "2015-12-06T09:44:32 +02:00"
+  },
+  {
+    "_id": 21,
+    "name": "Dorthy Drake",
+    "image": "assets/user.svg",
+    "company": "EXTRAGENE",
+    "responsabilidade": "strawberry",
+    "message": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolorem que laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis.",
+    "registered": "2015-06-21T02:39:20 +03:00"
+  },
+  {
+    "_id": 31,
+    "name": "Robinson Bishop",
+    "image": "assets/user.svg",
+    "company": "DUFLEX",
+    "responsabilidade": "strawberry",
+    "message": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolorem que laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis.",
+    "registered": "2020-09-15T09:46:39 +03:00"
+  },
+  {
+    "_id": 41,
+    "name": "Witt Mcclure",
+    "image": "assets/user.svg",
+    "company": "CENTICE",
+    "responsabilidade": "strawberry",
+    "message": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolorem que laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis.",
+    "registered": "2021-02-27T08:54:39 +03:00"
+  },
+  {
+    "_id": 51,
+    "name": "Cruz David",
+    "image": "assets/user.svg",
+    "company": "RUGSTARS",
+    "responsabilidade": "banana",
+    "message": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolorem que laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis.",
+    "registered": "2017-11-19T12:55:44 +02:00"
+  },
+  {
+    "_id": 61,
+    "name": "Erickson Price",
+    "image": "assets/user.svg",
+    "company": "OMATOM",
+    "responsabilidade": "banana",
+    "message": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolorem que laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis.",
+    "registered": "2017-06-25T04:04:38 +03:00"
+  }
 ]
