@@ -61,6 +61,7 @@
 		<div>
 			<h4>💾 Lasts Projects</h4>
 			<a href="https://github.com/ricardo-node"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ricardo-node&repo=ricardo-node"></a>
+	<a href="https://github.com/ricardo-node"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ricardo-node&repo=portifolio"></a>
 		</div>
 	</div>
 
