@@ -6,7 +6,7 @@
 </div>
 	<div align="justify" style="display: inline_block">
 		<img align="right" alt="pic" height="300" style="border-radius:50px;" src="https://spotify-github-profile.vercel.app/api/view?uid=sralonez&cover_image=true&bar_color=000000&bar_color_cover=true">
-		<img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://scontent-gig2-1.cdninstagram.com/v/t51.2885-19/s150x150/210882471_5709633662444127_4560359312715020661_n.jpg?_nc_ht=scontent-gig2-1.cdninstagram.com&_nc_cat=103&_nc_ohc=mVPUJ1n3jCkAX_iLvte&edm=ALbqBD0BAAAA&ccb=7-4&oh=00_AT8iV_A2ft3XHyv0F_pQG65Ec3DUFYAr2br_p_vuupBqEg&oe=61D92670&_nc_sid=9a90d6?width=676&height=676">
+		<img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4D03AQEhK8eQ-nILCA/profile-displayphoto-shrink_800_800/0/1642366143806?e=1648080000&v=beta&t=g_WlnLwCpMhUKWwkmKPwzMQCTmRJSfCSUAcxlLt3CwY">
 		<h4>⚡ About me</h4>
 		Student of Business Administration at Faculdade Estácio de Sá in Rio de Janeiro 🏫, responsible for the online store for personalized products <a href="https://www.instagram.com/nossasestrelas.br/">Nossas Estrelas</a> and passionate about technology, and an aspiring software developer 💻.
 		<br>
