@@ -1,4 +1,4 @@
-<img src="https://badges.pufler.dev/visits/ricardo-codes/ricardo-codes?style=for-the-badge&logo=GitHub&logoColor=white">
+<img src="https://badges.pufler.dev/visits/HTTPMerak/HTTPMerak?style=for-the-badge&logo=GitHub&logoColor=white">
 <p align="center">
 	<strong><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi Ladys and Gentlemen, my name is Ricardo, but you can call me MERAK or Asmita; whatever!</strong>
 	<img width="100%" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
@@ -24,19 +24,19 @@
 			<ul>
 				🛠 &nbsp; I’m currently working with Nodejs, Express, React, Mongodb, Javascript, etc.<br>
 				🚀 &nbsp; I’m currently learning Full Stack Development.<br>
-				👨🏻‍💻 &nbsp; Most of my projects are available on <a href="https://github.com/ricardo-codes">Github</a><br>
-				💬 &nbsp; Ask me about anything <a href="https://github.com/ricardo-codes/ricardo-codes/issues/2">here</a>! I am happy to help.<br>
+				👨🏻‍💻 &nbsp; Most of my projects are available on <a href="https://github.com/HTTPMerak">Github</a><br>
+				💬 &nbsp; Ask me about anything <a href="https://github.com/HTTPMerak/HTTPMerak/issues/2">here</a>! I am happy to help.<br>
 				👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.<br>
-				📝 &nbsp; Checkout my <a href="hhttps://github.com/ricardo-codes/ricardo-codes/blob/master/resume.pdf">Resume</a>
+				📝 &nbsp; Checkout my <a href="hhttps://github.com/HTTPMerak/HTTPMeraks/blob/master/resume.pdf">Resume</a>
 			</ul>
 		</p>
 	</div>
 	<hr/>
   	<div align="justify" style="display: inline_block"></div>
 		<div align="center">
-			<a href="https://github.com/ricardo-codes">
-				<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ricardo-codes&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-				<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-codes&layout=compact&langs_count=10&theme=dark&count_private=true" />
+			<a href="https://github.com/HTTPMerak">
+				<img height="160em" src="https://github-readme-stats.vercel.app/api?username=HTTPMerak&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+				<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HTTPMerak&layout=compact&langs_count=10&theme=dark&count_private=true" />
 			</a>
 		</div>
 		<hr/>
@@ -60,8 +60,8 @@
 		</div>
 		<div>
 			<h4>💾 Lasts Projects</h4>
-			<a href="https://github.com/ricardo-codes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ricardo-codes&repo=ricardo-codes"></a>
-	<a href="https://github.com/ricardo-codes/portifolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ricardo-codes&repo=portifolio"></a>
+			<a href="https://github.com/HTTPMerak"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HTTPMerak&repo=HTTPMerak"></a>
+	<a href="https://github.com/HTTPMerak/portifolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HTTPMerak&repo=portifolio"></a>
 		</div>
 	</div>
 
